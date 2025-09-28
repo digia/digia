@@ -1,5 +1,6 @@
-## Digia
+## Well Hello There! Welcome.
 
+My name is Jonathon "digia" Moore, I'm a passionate problem solver with a diverse background, who loves learnings about and using technology to enhance our daily lives.
 
 #### Connect With me
 
