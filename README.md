@@ -1,6 +1,11 @@
 ## Well Hello There! Welcome.
 
-My name is Jonathon "digia" Moore, I'm a passionate problem solver with a diverse background, who loves learnings about and using technology to enhance our daily lives.
+I'm Jonathon "digia" Moore, a passionate problem solver with a diverse background, who loves learnings about and using technology to enhance our daily lives.
+
+Lately I've been working on,
+- Building automation workflows for data sensitive contexts using Elixir, Oban, and AI
+- Full stack application development with Django, Next.js, and Tailwind CSS
+- Modernizing and controlling manufacturing system using Elixir & Nerves project
 
 #### Connect With me
 
