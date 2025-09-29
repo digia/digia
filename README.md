@@ -2,6 +2,8 @@
 
 I'm Jonathon "digia" Moore, a passionate problem solver with a diverse background, who loves learnings about and using technology to enhance our daily lives.
 
+Most of my professional career has been working on application development, data pipelines, systems automation, and information security.
+
 Lately I've been working on,
 - Building automation workflows for data sensitive contexts using Elixir, Oban, and AI
 - Full stack application development with Django, Next.js, and Tailwind CSS
