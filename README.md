@@ -1,6 +1,6 @@
 ## Well Hello There! Welcome.
 
-I'm Jonathon "digia" Moore, a passionate problem solver with a diverse background, who loves learnings about and using technology to enhance our daily lives.
+I'm Jonathon "digia" Moore, a passionate problem solver with a diverse background, who loves learning about and using technology to enhance our daily lives.
 
 Most of my professional career has been working on application development, data pipelines, systems automation, and information security.
 
